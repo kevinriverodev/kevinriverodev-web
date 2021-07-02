@@ -1,0 +1,4 @@
+La carpeta view contiene todos los archivos del negocio en internet.
+Dentro hay 3 carpetas, js que contiene un archivo JavaScript con instrucciones para animar,
+css contiene todos los archivos de estilos y la libreria de iconos e img que contiene todas 
+las imagenes de la web. Cuenta con 3 secciones, Inicio, Servicios, Acerca de mi.
